@@ -282,7 +282,7 @@ img{border: none;}
 /* ABOUT SECTION */
 /*--------------------*/
 
-#about{
+#aboutSection{
   background-color: #FFFFFF;
   display: inline;
   float: left;
@@ -559,7 +559,7 @@ img{border: none;}
 /*--------------------*/
 
 
-#whySaladmaster {
+#whySaladmasterSection {
   background-color: #FFFFFF;
   display: inline;
   float: left;
@@ -568,7 +568,7 @@ img{border: none;}
   width: 100%;
 }
 
-#whySaladmaster>p{
+#whySaladmasterSection > p{
   color: #606060; 
   margin-bottom: 12px;
   font-size: 18px;
@@ -679,10 +679,10 @@ img{border: none;}
 }
 **/
 /*--------------------*/
-/* VIDEO SECTION */
+/* CUSTOMER CARE SECTION */
 /*--------------------*/
 
-#videoSection {
+#customerCareSection {
   background-color: #F8F8F8;
   display: inline;
   float: left;
@@ -691,12 +691,12 @@ img{border: none;}
   text-align: center;
   width: 100%;
 }
-.video_area{
+.customerCare_area{
   float: left;
   display: inline;
   width: 100%;
 }
-.video_area> p {
+.customerCare_area > p {
   color: #606060;  
   font-size: 20px;
   margin-top: 25px;
@@ -711,28 +711,28 @@ img{border: none;}
 }
 
 /*--------------------*/
-/* TESTIMONIAL */
+/* CAREERS */
 /*--------------------*/
 
-#testimonila {
+#careersSection {
   background-color: #FFFFFF;
   display: inline;
   float: left;
   padding: 100px 0 150px;
   width: 100%;
 }
-.testimonila_area{
+.careersSection_area{
   float: left;
   display: inline;
   width: 100%;
   text-align: center;
 }
-.testimonila_area > p {
+.careersSection_area > p {
   color: #606060; 
   font-size: 20px;
   margin-top: 25px;
 }
-.testimonial_slider {
+.careersSection_slider {
   display: inline;
   float: left;
   margin-top: 70px;
@@ -958,7 +958,7 @@ img{border: none;}
 /* CONTACT */
 /*--------------------*/
 
-#contact {
+#contactSection{
   background: none repeat scroll 0 0 #F8F8F8;
   display: inline;
   float: left;
